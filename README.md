@@ -1,5 +1,5 @@
 ## About 
-Aplikasi ini dibedakan menjadi 2 halaman utama web digunakan untuk menampilkan semua content, halaman admin digunakan untuk memanage semua content yang ada pada halaman utama web.
+Create book service with API Key auth.
   
    # Teknologi Yang digunakan :
    * Golang
